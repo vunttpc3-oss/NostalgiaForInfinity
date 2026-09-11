@@ -46,6 +46,9 @@
         ],
         "pair_blacklist": []
     },
+    "pairlists": [
+        {"method": "StaticPairList"}
+    ],
     "trading_mode": "futures",
     "margin_mode": "isolated",
     "telegram": {
