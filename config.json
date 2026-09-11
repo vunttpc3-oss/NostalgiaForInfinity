@@ -56,6 +56,7 @@
         "token": "8604420358:AAFN5ru6k4KFywWjZiLnB2C8J7JmKDJQ1Tw",
         "chat_id": "1828744705"
     },
+    "verbosity": 2,
     "api_server": {
         "enabled": true,
         "listen_ip_address": "0.0.0.0",
